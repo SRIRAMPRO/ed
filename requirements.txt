@@ -1,12 +1,12 @@
-streamlit
+streamlit==1.37.0
 numpy>=1.26.0
 pandas
-opencv-python-headless
-tensorflow>=2.16.1
+opencv-python-headless==4.10.0.84
+tensorflow==2.15.0
 keras
 protobuf
 setuptools
 streamlit-webrtc
 aiortc
-av
+av==10.0.0
 aioice
