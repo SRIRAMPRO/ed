@@ -26,7 +26,6 @@ idna>=3.4
 ifaddr>=0.2.0
 Jinja2>=3.1
 jsonschema>=4.20
-keras==3.11.1
 libclang>=18.0
 Markdown>=3.4
 markdown-it-py>=3.0.0
@@ -73,4 +72,5 @@ urllib3>=2.0
 watchdog>=3.0
 Werkzeug>=3.0
 wrapt>=1.14
+
 
